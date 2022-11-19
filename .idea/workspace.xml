@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="432ac5db-c982-4247-89af-73d8b2cc086c" name="Changes" comment="Ejercicio Estructura de Control Completado">
-      <change afterPath="$PROJECT_DIR$/src/Entrega4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entrega4/SmartDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entrega4/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entrega4/SmartWatch.java" afterDir="false" />
+    <list default="true" id="432ac5db-c982-4247-89af-73d8b2cc086c" name="Changes" comment="Ejercicio Poode Completado">
+      <change afterPath="$PROJECT_DIR$/src/Entrega5/CocheCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entrega5/CocheCRUDImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entrega5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
